@@ -1,0 +1,32 @@
+vault_path: D:/vivi/vi
+inbox_name: inbox
+archive_name: 99_Archive
+failed_name: inbox/Failed
+log_dir_name: logs
+similarity_threshold: 0.9
+scan_interval_seconds: 600
+prefer_workflow_prompt: true
+prompt_workflow_json: D:/vivi/vi/Obsidian_Disassembler (2).json
+force_chinese_filename: true
+bridge_export_enabled: false
+bridge_os_root: D:/vivi/dontbesilent-OS
+bridge_material_root: 01-内容生产/内容素材库
+bridge_subfolder_map:
+  concept: 核心概念库
+  quote: 金句库
+  structure: 爆款文稿库
+
+category_mapping:
+  "01_Who am I": "01_我是谁"
+  "02_What can I do": "02_我能做什么"
+  "02_What I Can Do": "02_我能做什么"
+  "03_Content Assets": "03_内容资产"
+  "04_Product & Business": "04_产品与商业"
+  "05_User Insight": "05_用户洞察"
+  "05_User Insights": "05_用户洞察"
+  "06_Decision Model": "06_决策模型"
+  "06_Decision model": "06_决策模型"
+  "10_Core Logic": "07_核心逻辑"
+  "10_Core Theory": "07_核心逻辑"
+  "10_Core Logic Theory": "07_核心逻辑"
+  "10_核心逻辑理论": "07_核心逻辑"
